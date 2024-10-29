@@ -1,0 +1,1 @@
+export const DEFAULT_COUNT_POSTS_ON_PAGES = 10;
